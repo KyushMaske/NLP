@@ -22,6 +22,7 @@
 
 
 
+![Screenshot 2024-06-01 182548](https://github.com/KyushMaske/NLP/assets/92746457/ec95fc0f-d56f-470e-8672-c339b0947f28)
 
 
 
