@@ -14,3 +14,4 @@ Today, my primary focus is on Label Encoding, One-Hot Encoding, Bag-of-Words (Bo
 **TF-IDF**
     - converts text documents into a matrix of TF-IDF features. It reflects the importance of a word in a document relative to the entire corpus.
 
+Difference Between BOW and TF-IDF
