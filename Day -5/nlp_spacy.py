@@ -62,7 +62,6 @@ ellipsis_text = (
 )
 process_text_with_custom_boundaries(ellipsis_text)
 
-
 def print_tokens_with_indices(text):
     """Process text and print each token with its starting character index."""
 
