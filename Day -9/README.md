@@ -8,3 +8,11 @@ Bidirectional context to predict masked words within a sentence
 
 [Kaggle](https://www.kaggle.com/code/shreydan/masked-language-modeling-from-scratch)
 
+
+
+**Masked Language Models vs Casual Languaga Model**
+
+![code](https://github.com/KyushMaske/NLP/assets/92746457/0049cbd5-e823-48c0-a861-c3a016694f2d)
+
+
+
