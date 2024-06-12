@@ -1,0 +1,1 @@
+Today just continued learning more about BERT 
